@@ -1,5 +1,5 @@
 export default function pages() {
     return (
-        <p>this is dashboard</p>
+        <p>this is dashboard testing with kys</p>
     )
 }
